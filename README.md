@@ -6,8 +6,17 @@ This is a simple plugin for Wordpress that changes any occurance of "naughty" wo
 Because Piers Morgan has a tendancy to be a right muppet sometimes online.
 
 ## Installation
-1. Upload the .zip file via the Plugins -> Add new Plugin -> Upload a plugin
-2. Extract the zip, FTP to your site, and upload to your `wp-content/plugins`
+### Via the admin panel
+1. Zip (or compress) the `piers-morgan-twatify` folder. 
+2. Log into your Wordpress administration panel.
+3. Upload the .zip file via the Plugins -> Add new Plugin -> Upload a plugin menu options.
+4. Click install and then activate.
+
+### Via FTP
+1. FTP to your site.
+2. Upload the `piers-morgan-twatify` folder to your `wp-content/plugins/` folder on your blog.
+3. Go to your Wordpress admin panel
+4. Go to the plugins menu and click "Install"
 
 ## Words replaced
 The following words will be replaced if they occur anywhere in your blog post's, or pages for that matter, content. Feel free to edit and update with your own bank of words.
